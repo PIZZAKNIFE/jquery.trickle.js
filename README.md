@@ -1,7 +1,7 @@
-# Trickle
+# jquery.trickle.js
 
 A simple way to present elements incrementally.
--author: brandt.solovij@gmail.com
+-author: brandt.solovij aka pizzaknife@github
 
 ### What Does It Do?
 
