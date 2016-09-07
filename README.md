@@ -11,6 +11,6 @@ they naturally appear in the DOM.
 ### What Flavors Does It Come In?
 
 Simple! All you need to do is identify a series of elements via a selector. The
-Trickle will find those elements' and work it's magic from there.
+Trickle will find those elements' and work it's magic from there. 
 
-On the Horizon: expanded features to handle iterative node handling from asynch calls 
+On the Horizon: expanded features to handle iterative node handling from asynch calls
